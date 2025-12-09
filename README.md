@@ -6,6 +6,8 @@
   
 - Além disso, tenho me aventurado com automação e desenvolvimento de pequenos projetos em Python, destacando a criação de bots para Discord e outras ferramentas que otimizam tarefas rotineiras.
 
+- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="James-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="James-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

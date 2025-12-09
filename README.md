@@ -1,8 +1,8 @@
 ## Olá👋 Eu sou Luís Miguel, mas meus amigos me chamam de James.
 
-- Atualmente trabalho como Assistente de TI na parte de suporte técnico, infraestrutura e administração de redes. E estou aprofundando meus conhecimentos em redes e infraestrutura de TI, com enfoque em certificações como CompTIA e futuramente CCNA.
+- Atualmente trabalho como Assistente de TI na parte de suporte técnico, infraestrutura e administração de redes.
 
-- Recentemente, direcionei novamente meus estudos para o desenvolvimento web full stack, que é uma antiga paixão. Me dedico ao domínio das principais tecnologias do mercado, incluindo HTML, CSS, JavaScript, Node.js, React e UI/UX Design, focando na construção de aplicações modernas e funcionais.
+- Recentemente, direcionei novamente meus estudos para o desenvolvimento web full stack, que é uma antiga paixão. Me dedico principalmente a HTML, CSS, JavaScript, PHP e MySQL.
   
 - Além disso, tenho me aventurado com automação e desenvolvimento de pequenos projetos em Python, destacando a criação de bots para Discord e outras ferramentas que otimizam tarefas rotineiras.
 

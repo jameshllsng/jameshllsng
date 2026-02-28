@@ -1,10 +1,10 @@
-## Olá👋 Eu sou Luís Miguel, mas meus amigos me chamam de James.
+Hello 👋 I’m Luís Miguel, but my friends call me James.
 
-- Atualmente trabalho como Assistente de TI na parte de suporte técnico, infraestrutura e administração de redes.
+- I currently work as an IT Assistant, focusing on technical support, infrastructure, and network administration.
 
-- Recentemente, direcionei novamente meus estudos para o desenvolvimento web full stack, que é uma antiga paixão. Me dedico principalmente a HTML, CSS, JavaScript, PHP e MySQL.
-  
-- Além disso, tenho me aventurado com automação e desenvolvimento de pequenos projetos em Python, destacando a criação de bots para Discord e outras ferramentas que otimizam tarefas rotineiras.
+- Recently, I redirected my studies back to full stack web development — an old passion of mine. I mainly dedicate my time to HTML, CSS, JavaScript, PHP, and MySQL.
+
+- I’ve also been exploring automation and small-scale development projects using Python, especially creating Discord bots and tools that help optimize routine tasks.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="James-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

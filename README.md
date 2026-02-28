@@ -6,6 +6,8 @@ Hello 👋 I’m Luís Miguel, but my friends call me James.
 
 - I’ve also been exploring automation and small-scale development projects using Python, especially creating Discord bots and tools that help optimize routine tasks.
 
+Passionate about technology, automation, and building efficient solutions that make life easier.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="James-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="James-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

@@ -16,6 +16,7 @@ Passionate about technology, automation, and building efficient solutions that m
   <img align="center" alt="James-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="James-JSON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
   <img align="center" alt="James-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="James-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##

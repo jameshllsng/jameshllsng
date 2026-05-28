@@ -1,12 +1,18 @@
-Hello 👋 I’m Luís Miguel, but my friends call me James.
+👋 About Me
 
-- I currently work as an IT Assistant, focusing on technical support, infrastructure, and network administration.
+Hello! I’m Luís Miguel — but most people know me as James.
 
-- Recently, I redirected my studies back to full stack web development — an old passion of mine. I mainly dedicate my time to HTML, CSS, JavaScript, PHP, and MySQL.
+- Currently working as an IT Assistant, where I deal daily with technical support, infrastructure, network administration, and maintaining stable environments in real-world corporate scenarios.
 
-- I’ve also been exploring automation and small-scale development projects using Python, especially creating Discord bots and tools that help optimize routine tasks.
+- Alongside my infrastructure background, I’ve been reconnecting with one of my biggest passions: full stack web development.
+- Most of my studies and projects revolve around technologies like **HTML, CSS, JavaScript, PHP, and MySQL**, always focusing on creating clean, functional, and user-friendly applications.
 
-Passionate about technology, automation, and building efficient solutions that make life easier.
+- I’m also deeply interested in **automation and scripting with Python**, developing tools and Discord bots that help streamline workflows, automate repetitive tasks, and improve day-to-day efficiency.
+
+- Beyond coding, I enjoy exploring UI/UX, system organization, and the intersection between infrastructure and software development — combining practical IT experience with modern web technologies to build useful and efficient solutions.
+
+🖤 Passionate about technology, automation, problem solving, and creating things that actually make people’s lives easier.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="James-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

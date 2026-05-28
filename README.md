@@ -2,14 +2,14 @@
 
 Hello! I’m Luís Miguel — but most people know me as James.
 
-- Currently working as an IT Assistant, where I deal daily with technical support, infrastructure, network administration, and maintaining stable environments in real-world corporate scenarios.
+Currently working as an IT Assistant, where I deal daily with technical support, infrastructure, network administration, and maintaining stable environments in real-world corporate scenarios.
 
-- Alongside my infrastructure background, I’ve been reconnecting with one of my biggest passions: full stack web development.
-- Most of my studies and projects revolve around technologies like **HTML, CSS, JavaScript, PHP, and MySQL**, always focusing on creating clean, functional, and user-friendly applications.
+Alongside my infrastructure background, I’ve been reconnecting with one of my biggest passions: full stack web development.
+Most of my studies and projects revolve around technologies like **HTML, CSS, JavaScript, PHP, and MySQL**, always focusing on creating clean, functional, and user-friendly applications.
 
-- I’m also deeply interested in **automation and scripting with Python**, developing tools and Discord bots that help streamline workflows, automate repetitive tasks, and improve day-to-day efficiency.
+I’m also deeply interested in **automation and scripting with Python**, developing tools and Discord bots that help streamline workflows, automate repetitive tasks, and improve day-to-day efficiency.
 
-- Beyond coding, I enjoy exploring UI/UX, system organization, and the intersection between infrastructure and software development — combining practical IT experience with modern web technologies to build useful and efficient solutions.
+Beyond coding, I enjoy exploring UI/UX, system organization, and the intersection between infrastructure and software development — combining practical IT experience with modern web technologies to build useful and efficient solutions.
 
 🖤 Passionate about technology, automation, problem solving, and creating things that actually make people’s lives easier.
 

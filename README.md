@@ -1,36 +1,79 @@
-👋 About Me
+# 👋 About Me
 
-Hello! I’m Luís Miguel — but most people know me as James.
+Hello! I’m **Luís Miguel**, but most people know me as **James**.
 
-Currently working as an IT Assistant, where I deal daily with technical support, infrastructure, network administration, and maintaining stable environments in real-world corporate scenarios.
+I currently work as an **IT Assistant**, supporting real-world corporate environments through technical support, infrastructure maintenance, network administration, user management, hardware troubleshooting, and system configuration.
 
-Alongside my infrastructure background, I’ve been reconnecting with one of my biggest passions: full stack web development.
-Most of my studies and projects revolve around technologies like **HTML, CSS, JavaScript, PHP, and MySQL**, always focusing on creating clean, functional, and user-friendly applications.
+I’m also pursuing a degree in **Systems Analysis and Development**, expanding my experience beyond infrastructure and strengthening my skills in software development.
 
-I’m also deeply interested in **automation and scripting with Python**, developing tools and Discord bots that help streamline workflows, automate repetitive tasks, and improve day-to-day efficiency.
+## 💻 Development
 
-Beyond coding, I enjoy exploring UI/UX, system organization, and the intersection between infrastructure and software development — combining practical IT experience with modern web technologies to build useful and efficient solutions.
+My main development interests are focused on:
 
-🖤 Passionate about technology, automation, problem solving, and creating things that actually make people’s lives easier.
+* **Front-end development** with HTML, CSS, and JavaScript
+* **Web application development** with PHP, MySQL, and PostgreSQL
+* **Automation and scripting** with Python
+* **Back-end development** with C# and ASP.NET
+* **Game development** with C# and Unity
 
+I use **Python** to create automation scripts, productivity tools, Discord bots, and solutions that simplify repetitive tasks. I have also used Python in academic projects, including the development of a game for college.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="James-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="James-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="James-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="James-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="James-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="James-JSON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
-  <img align="center" alt="James-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="James-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#-original.svg">
-  <img align="center" alt="James-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+With **C#**, I have experience building web applications using **ASP.NET**, working with concepts such as MVC, Razor Pages, object-oriented programming, and database integration.
+
+I also use **C# with Unity**, where I have been developing a tactical first-person game while studying gameplay programming, player movement, artificial intelligence, interactions, and game-system architecture.
+
+## 🧠 What I’m Interested In
+
+Beyond programming, I enjoy exploring:
+
+* IT infrastructure and networking
+* Process automation
+* System organization
+* UI and UX
+* Databases
+* Web application architecture
+* Game development
+* The connection between infrastructure and software development
+
+🖤 I’m passionate about technology, automation, problem-solving, and creating solutions that make people’s lives and workflows easier.
+
+---
+
+## 🛠️ Technologies and Tools
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="James-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="James-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="James-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="James-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="James-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="James-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="James-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="James-CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="James-DotNet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="James-Unity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+  <img align="center" alt="James-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="James-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/james_hllsng" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/282596372262420482" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luis.miguelsandrincardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-miguel-sandrin-cardoso-224676225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+---
+
+## 🌐 Contact
+
+<div>
+  <a href="https://instagram.com/james_hllsng" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="https://discord.com/users/282596372262420482" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+
+  <a href="mailto:luis.miguelsandrincardoso@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/luis-miguel-sandrin-cardoso-224676225" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>

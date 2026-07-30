@@ -22,6 +22,7 @@ Beyond coding, I enjoy exploring UI/UX, system organization, and the intersectio
   <img align="center" alt="James-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="James-JSON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
   <img align="center" alt="James-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="James-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp-original.svg">
   <img align="center" alt="James-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
